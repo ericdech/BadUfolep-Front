@@ -1,0 +1,19 @@
+.message {
+  position: fixed;
+  width: initial;
+  right: 0;
+  bottom:0;
+  left: 0;
+  z-index: 9999;
+}
+.header {
+  height: 48px;
+}
+.error {
+  background-color: red;
+  color:white;
+}
+.title {
+  font-size: 28px;
+  font-weight: 500;
+}

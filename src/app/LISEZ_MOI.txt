@@ -1,0 +1,7 @@
+Comment débugger le TS sous VSCode (quelle extension ?)  => Extension debugger for chrome (vérifier *)
+Pourquoi ! ou undefined nécessaire sur les variables alors que non présent dans exmeples sur le net (paramétrer VS, voir extension TSLint - | = nouveau Angular 11)
+Message :
+-> Supprimer bouton expansion
+-> Ajouter bouton fermer
+-> Gérer l'affichage sur nouveau Message
+-> Rationaliser les style (+ passe sur autres composants)
